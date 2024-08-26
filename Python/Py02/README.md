@@ -6,11 +6,15 @@
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 요구하는 조건에 맞게 코드 과정이 짜여졌고 완성 된 코드가 제출 되었음
+     
+      ![image](https://github.com/Lee-Dongsu/AIFFEL_quest_02/blob/main/Python/Py02/q01.png)
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 생소하고 복잡한 부분이 있었으나 주석을 통해 용도에 대해 설명이 되어있음
     - 각 항목 별로 코드의 용도에 맞게 설명이 되어있음
+     
+      ![image](https://github.com/Lee-Dongsu/AIFFEL_quest_02/blob/main/Python/Py02/q02.png)
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -23,6 +27,8 @@
 - [X]  **5. 코드가 간결하고 효율적인가요?**
     - 우리 조에서 생각하고 작성 된 코드와 달리 비슷한 의미로 볼 수 있지만 간결하게 처리 된 문장들을 볼 수 있었음
     - 출력을 하기 위한 세팅 과정이 있지만 출력을 하는 과정에서는 간결한 코드 블럭을 볼 수 있었음
+     
+      ![image](https://github.com/Lee-Dongsu/AIFFEL_quest_02/blob/main/Python/Py02/q05.png)
 
 
 # 회고(참고 링크 및 코드 개선)
