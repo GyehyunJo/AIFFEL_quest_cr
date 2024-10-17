@@ -56,7 +56,7 @@ class MyApp extends StatelessWidget {
                       top: 0,
                       left: 0,
                       child: Container(
-                        width: 300, // 첫 번째 컨테이너 크기
+                        width: 300, // 첫 번째 컨테이너 크기(스택 포지션에선 자식 위젯 알아서 부모위젯에서 안삐져나가게 해줌)
                         height: 300,
                         color: Colors.red,
                       ),
@@ -108,3 +108,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//회고: 원하는 모양대로 만드는게 쉽지 않다.
