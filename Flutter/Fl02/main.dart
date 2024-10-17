@@ -53,10 +53,10 @@ class MyApp extends StatelessWidget {
                 child: Stack(
                   children: [
                     Positioned(
-                      top: 0,
+                      top: 0,        //좌측 정렬(스택 포지션에선 자식 위젯 알아서 부모위젯에서 안삐져나가게 해줌)
                       left: 0,
                       child: Container(
-                        width: 300, // 첫 번째 컨테이너 크기(스택 포지션에선 자식 위젯 알아서 부모위젯에서 안삐져나가게 해줌)
+                        width: 300, // 첫 번째 컨테이너 크기
                         height: 300,
                         color: Colors.red,
                       ),
