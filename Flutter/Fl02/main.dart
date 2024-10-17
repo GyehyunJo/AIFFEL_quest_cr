@@ -5,7 +5,7 @@ void main() {
   runApp(const MyApp()); // Flutter 앱 실행
 }
 
-// MyApp 클래스는 앱의 UI를 정의하는 클래스, StatelessWidget을 상속함
+// MyApp 클래스는 앱의 UI를 정의하는 클래스, StatelessWidget 사용
 class MyApp extends StatelessWidget {
   // MyApp의 생성자
   const MyApp({Key? key}) : super(key: key);
@@ -27,10 +27,10 @@ class MyApp extends StatelessWidget {
             Spacer(flex: 4), // 위쪽에 공간을 적당히 확보하여 예시처럼 살짝 아래쪽으로 내림
             // 직사각형 모양의 ElevatedButton 추가
             Center(
-              child: SizedBox(
-                width: 200, // 버튼 너비
-                height: 60, // 버튼 높이
-                child: ElevatedButton(
+              child: SizedBox( // 버튼 크기 정의
+                width: 200, 
+                height: 60, 
+                child: ElevatedButton( //버튼 생성
                   onPressed: () {
                     print('버튼이 눌렸습니다');
                   },
@@ -47,9 +47,9 @@ class MyApp extends StatelessWidget {
             SizedBox(height: 90), // 버튼과 정사각형들 사이 간격 추가
             // Stack으로 겹친 정사각형들 배치
             Center(
-              child: SizedBox(
-                width: 300, // Stack의 너비 설정
-                height: 300, // Stack의 높이 설정
+              child: SizedBox(  //스택 크기 정의
+                width: 300, 
+                height: 300,
                 child: Stack(
                   children: [
                     Positioned(
