@@ -48,10 +48,6 @@
 
 
 
-
-https://github.com/user-attachments/assets/83923596-b52e-41f9-b41d-2c031dfc5ae9
-
-
 https://github.com/user-attachments/assets/5f50c8d2-8d38-4d88-8400-346af021932c
 
 
