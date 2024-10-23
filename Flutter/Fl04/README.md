@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/5f50c8d2-8d38-4d88-8400-346af021932c
 
 
 ## 페이지 구현
-2종류의 오픈소스 코드입니다.
+참고자료에 링크 첨부한 2종류의 오픈소스 코드입니다.
 
 
 
@@ -58,7 +58,12 @@ https://github.com/user-attachments/assets/d0c13094-c4d3-4a52-ba84-bfb2ddf5b90c
 
 ## 참고 학습 자료 
 https://github.com/Jayaprakash-dev/Youtube-UI-Clone-Flutter?tab=readme-ov-file
-챗gpt
+
+
+https://github.com/MarcusNg/flutter_youtube_api
+
+chatgpt
+
 
 ## 회고
 오픈소스 버젼 호환문제를 해결하는게 끔찍하게 어려웠습니다.
