@@ -18,6 +18,10 @@
 
 ## 앱 구조도
 ![유튜브 레이블링(하단탭구조)](https://github.com/user-attachments/assets/05f144a4-132f-47a6-bfd5-f17ece916d37)
+
+
+
+
 ![유튜브 정보구조](https://github.com/user-attachments/assets/b7b7ad26-8f5e-473a-9119-3c7b747df052)
 
 
@@ -26,7 +30,15 @@
 
 ## 앱 와이어프레임 (사용 툴 : 굿노트)
 ![와이어프레임 홈](https://github.com/user-attachments/assets/2816386c-6777-4358-a5d7-d8a1c414d8e6)
+
+
+
+
 ![와이어프레임 쇼츠](https://github.com/user-attachments/assets/a925228d-554c-484c-9571-d2dcdf1a3791)
+
+
+
+
 ![와이어프레임 검색](https://github.com/user-attachments/assets/a785d2b4-f5ca-4a13-90b0-fc97fef86f6f)
 
 
