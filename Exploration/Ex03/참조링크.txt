@@ -3,3 +3,5 @@ https://huggingface.co/facebook/sam2-hiera-large
 https://velog.io/@hsbc/Segment-Anything-2
 
 https://jjoh4803.tistory.com/68
+
+https://github.com/facebookresearch/sam2/tree/main/notebooks
